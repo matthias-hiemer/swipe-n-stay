@@ -1,52 +1,4 @@
 {
-	"primary_count": 38,
-	"count": 38,
-	"room_distribution": [
-		{
-			"children": [
-				5,
-				0
-			],
-			"adults": "2"
-		}
-	],
-	"map_bounding_box": {
-		"ne_lat": 43.366116293492,
-		"sw_lat": 43.1391542139463,
-		"ne_long": -1.70703023672104,
-		"sw_long": -2.20507755875587
-	},
-	"total_count_with_filters": 55,
-	"unfiltered_count": 799,
-	"extended_count": 17,
-	"unfiltered_primary_count": 799,
-	"search_radius": 25.0,
-	"sort": [
-		{
-			"id": "distance",
-			"name": "Distance from city centre"
-		},
-		{
-			"id": "popularity",
-			"name": "Popularity"
-		},
-		{
-			"id": "class_descending",
-			"name": "Stars (5 to 0)"
-		},
-		{
-			"name": "Stars (0 to 5)",
-			"id": "class_ascending"
-		},
-		{
-			"name": "Guest review score",
-			"id": "bayesian_review_score"
-		},
-		{
-			"id": "price",
-			"name": "Price (low to high)"
-		}
-	],
 	"result": [
 		{
 			"district": "",
@@ -75,30 +27,6 @@
 			"timezone": "Europe/Madrid",
 			"id": "property_card_1132866",
 			"hotel_id": 1132866,
-			"distances": [
-				{
-					"text": "‎1 km from centre‬",
-					"icon_name": "bui_geo_pin",
-					"icon_set": null
-				},
-				{
-					"icon_name": "bui_distance",
-					"text": "1,000 m from beach",
-					"icon_set": null
-				},
-				{
-					"icon_set": null,
-					"icon_name": "bui_clean",
-					"text": "‎Cleanliness 9.1‬"
-				},
-				{
-					"icon_set": null,
-					"text": "‎This property has cots available‬",
-					"icon_name": "bui_baby_cot"
-				}
-			],
-			"wishlist_count": 0,
-			"cc_required": 1,
 			"countrycode": "es",
 			"longitude": -1.98310983250849,
 			"matching_units_configuration": {
