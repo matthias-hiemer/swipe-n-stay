@@ -1,0 +1,53 @@
+.accommodation-card {
+    background-color: white;
+    color: grey;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 400px;
+}
+
+.accommodation-card-rating {
+    position: absolute;
+    margin-top: -37px;
+    margin-left: 325px;
+    background: #AAA58B;
+    color: white;
+    border-radius: 100%;
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+}
+
+.accommodation-card p {
+    font-size: 10pt;
+}
+
+
+.accommodation-card-image {
+    width: 400px;
+}
+
+.accommodation-card-button {
+    width: 380px;
+    background-color: #247BA0;
+    border: 0;
+    border-radius:3px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family: Arial, serif;
+    font-size:20px;
+    padding:13px 32px;
+    text-decoration:none;
+}
+
+
+.accommodation-card-button:hover {
+    background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+    background-color:#408c99;
+}
+.accommodation-card-button:active {
+    position:relative;
+    top:1px;
+}
